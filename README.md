@@ -1,4 +1,4 @@
-# Tsuikyu_Kipfel_Stems
+# Tsuikyu_Usasaki_Stems
 
 Samples for Remix
 
@@ -6,10 +6,10 @@ Samples for Remix
 
 ## Track Information
 
-- **Title:** Kipfel  
+- **Title:** Usasaki
 - **Producer:** Tsuikyu  
 - **Key:** A minor  
-- **BPM:** 128  
+- **BPM:** 113 
 - **DAW:** Image-Line – FL Studio  
 - **Vocal:** Dreamtonics – Synthesizer V Studio Pro 2  
   - Voicebank: INTERNET Inc. – Otomachi Una 2  
