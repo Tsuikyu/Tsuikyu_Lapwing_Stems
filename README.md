@@ -1,4 +1,4 @@
-# Tsuikyu_Usasaki_Stems
+# Tsuikyu_Lapwing_Stems
 
 Samples for Remix
 
@@ -6,10 +6,10 @@ Samples for Remix
 
 ## Track Information
 
-- **Title:** Usasaki
+- **Title:** Lapwing
 - **Producer:** Tsuikyu  
-- **Key:** A minor  
-- **BPM:** 113 
+- **Key:** F♯ Major  
+- **BPM:** 130 
 - **DAW:** Image-Line – FL Studio  
 - **Vocal:** Dreamtonics – Synthesizer V Studio Pro 2  
   - Voicebank: INTERNET Inc. – Otomachi Una 2  
@@ -18,7 +18,7 @@ Samples for Remix
 
 ## Copyright
 
-**Copyright holder:** Kameyama ([@mukumi](https://mukumi.booth.pm))
+**Copyright holder:** 久 ([@ngc7027](https://kujishift.booth.pm/))
 
 本楽曲は **Tsuikyu による二次創作物** であり、  
-著作権は **「かめ山（もち山金魚）」** に帰属します。
+著作権は **「久（kuji）」** に帰属します。
